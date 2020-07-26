@@ -14,10 +14,10 @@ $(document).ready(function () {
         temp.val(value);
     }
 
-    // Creat a click event for my save button
+    // Create a click event for my save button
     $(".saveBtn").on("click", function(event) {
         event.preventDefault();
-        console.log(this);
+        //manipulating Dom elements set variables
         var value = $(this).siblings(".description").val();
         var time = $(this).parent().attr("id");
 
@@ -71,6 +71,6 @@ $(document).ready(function () {
 
 
     };
-
+      //run this function at the end to put appropriate colors 
     timeFrame();
 });
