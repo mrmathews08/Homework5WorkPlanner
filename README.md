@@ -2,6 +2,10 @@
 5th homework assignment
 ## Description 
 
+https://mrmathews08.github.io/Homework5WorkPlanner/
+
+https://github.com/mrmathews08/Homework5WorkPlanner
+
 This is my 5th homework assigment. In addition to the code provided, I added both HTML and JavaScript to this project.
 
 The application displays the current date and time at the top of the page.
@@ -12,6 +16,8 @@ The application takes in the current time, and highlights corresponding time blo
 WHen the page is refreshed, the information in the time blocks will persist. 
 
 
+
+<img width="1680" alt="Screen Shot 2020-07-26 at 3 41 46 PM" src="https://user-images.githubusercontent.com/65747246/88490127-8690e000-cf56-11ea-915a-dd04ae87e919.png">
 
 
 
