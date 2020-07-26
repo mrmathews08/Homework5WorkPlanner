@@ -30,7 +30,7 @@ $(document).ready(function () {
 
     // Insert my correct time and date using moment.js
 
-    $("#currentday").text(moment().format("LLL"));
+    $("#currentDay").text(moment().format("LLL"));
     function timeFrame() {
         var currentHours = moment().hours();
 
